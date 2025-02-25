@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "8B6A3720-5453-4E03-9FA0-737167A170A9",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:Gastify.xcodeproj",
+        "identifier" : "29F32B6F2D2B2BBA00AEFBC0",
+        "name" : "GastifyUITests"
+      }
+    }
+  ],
+  "version" : 1
+}
